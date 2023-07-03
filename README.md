@@ -1,6 +1,7 @@
 # The price of being late: short- and long-term consequences of a delayed migration timing
 
-This repository contains the code that was used for 
+This repository contains the code that was used for "The price of being late: short- and long-term consequences of a delayed migration timing" by Iris D. Bontekoe, Roland Hilgartner, Wolfgang Fiedler, Andrea Flack
+
 
 ## Contents
 
@@ -34,7 +35,7 @@ Death dates are based on visual inspection of the ACC data in the [movebank-acce
 
 ## Data availability
 The data is available through the [Movebank Data Repository](https://www.datarepository.movebank.org/)  
-[naturally-timed](), [control](), [delayed]()
+[naturally-timed](https://doi.org/10.5441/001/1.277), [control](https://doi.org/10.5441/001/1.271), [delayed](https://doi.org/10.5441/001/1.276)
 
 ## License
 
